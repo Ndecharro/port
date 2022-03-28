@@ -1,0 +1,22 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    background:linear-gradient(green, black)
+}
+
+
+h1 {
+    margin: 0;
+}
+
+th, td {
+    outline: solid 2px black;
+}
